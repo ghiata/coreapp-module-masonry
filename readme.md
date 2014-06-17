@@ -12,3 +12,5 @@ git clone https://github.com/ghiata/corpapp-module-masonry.git
 mpm install
 grunt
 ```
+
+Open http://localhost:3000 and resize the window.
