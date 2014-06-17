@@ -1,0 +1,12 @@
+.col-6 {
+    color: #FFFFFF;
+}
+.col-6:nth-child(odd) {
+    background-color: #F5A11A;
+}
+.col-6:nth-child(odd) h2 {
+    color: #D92327;
+}
+.col-6:nth-child(even){
+    background-color: #D9232D;
+}
