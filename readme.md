@@ -7,6 +7,8 @@ https://github.com/desandro/masonry
 
 Try it out:
 
+```bash
 git clone https://github.com/ghiata/corpapp-module-masonry.git
 mpm install
 grunt
+```
